@@ -29,7 +29,7 @@ o
   |      
   |      
   |      
-  |      
+  |       
 __|__
 
 Wrong guess. 3 guesses remaining
